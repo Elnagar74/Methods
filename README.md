@@ -1,0 +1,2 @@
+# Methods
+Examples of Methods
